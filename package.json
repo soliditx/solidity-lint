@@ -1,0 +1,31 @@
+{
+  "name": "@soliditx/solidity-learn",
+  "version": "1.0.14",
+  "description": "Description for solidity-learn",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soliditx/solidity-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@movexl/manage-github-repo": "^1.0.0",
+    "@soliditx/solidity-loan": "^1.0.0",
+    "@soliditx/solidity-dex": "^1.0.0",
+    "@soliditx/solidity-nft": "^1.0.0",
+    "@soliditx/solidity-fakeai": "^1.0.0",
+    "@soliditx/solidity-rwa": "^1.0.0",
+    "@soliditx/solidity-ai": "^1.0.0",
+    "@soliditx/solidity-tps": "^1.0.0",
+    "@soliditx/solidity-public": "^1.0.0",
+    "@soliditx/solidity-privacy": "^1.0.0",
+    "@soliditx/solidity-lint": "^1.0.0"
+  }
+}
