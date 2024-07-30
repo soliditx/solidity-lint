@@ -1,6 +1,6 @@
 {
   "name": "@soliditx/solidity-learn",
-  "version": "1.0.163",
+  "version": "1.0.164",
   "description": "Description for solidity-learn",
   "main": "src/index.js",
   "scripts": {
